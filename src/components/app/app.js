@@ -6,22 +6,16 @@ import ItemList from '../item-list';
 import PersonDetails from '../person-details';
 
 import './app.css';
+import PeoplePage from '../people-page';
 
 export default class App extends React.Component {
   
   constructor() {
     super();
     this.state = {
-      selectedPerson: null
+      hasError: false
     };
-    this.onPersonSelected = this.onPersonSelected.bind(this);
   }
-
-  onPersonSelected(id) {
-    this.setState({
-      selectedPerson : id
-    })
-  } 
 
   render () {
     return (
@@ -37,6 +31,7 @@ export default class App extends React.Component {
             <PersonDetails personId = {this.state.selectedPerson} />
           </div>
         </div>
+        < PeoplePage /> 
       </div>
     );
   }

@@ -8,10 +8,14 @@ import './people-page.css';
 
 export default class PeoplePage extends Component {
 
-  state = {
-    selectedPerson: 3,
-    hasError: false
-  };
+  constructor(){
+    super();
+    this.state = {
+      selectedPerson: 3,
+      hasError: false
+    }
+    this.onPersonSelected = this.onPersonSelected.bind(this);
+  }
 
   componentDidCatch(error, info) {
 
