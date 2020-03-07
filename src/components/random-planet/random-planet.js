@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 
+import './random-planet.css';
+
 import SwapiService from '../../services/swapi-service.js';
 
-import './random-planet.css';
 import Spinner from '../spinner/spinner';
 import ErrorIndicator from '../error-indicator';
 
@@ -23,7 +24,7 @@ export default class RandomPlanet extends Component {
 
     componentDidMount() {
       this.updatePlanet();
-      this.interval = setInterval(this.updatePlanet, 2000);
+      this.interval = setInterval(this.updatePlanet, 3000);
     }
 
     componentWillUnmount() {

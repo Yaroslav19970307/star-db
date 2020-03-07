@@ -1,12 +1,13 @@
 import React from 'react';
 
+import './app.css';
+
 import Header from '../header';
 import RandomPlanet from '../random-planet';
-import ItemList from '../item-list';
-import PersonDetails from '../person-details';
 
-import './app.css';
-import PeoplePage from '../people-page';
+import SwapiService from '../../services/swapi-service';
+import Row from '../row/row';
+import ItemDetails, {Record} from '../item-details/item-details';
 
 export default class App extends React.Component {
   
@@ -15,23 +16,40 @@ export default class App extends React.Component {
     this.state = {
       hasError: false
     };
+    this.swapiService = new SwapiService();
   }
 
   render () {
+    const personDetails = (
+      <ItemDetails 
+        itemId = {3} 
+        getData = {this.swapiService.getPerson}
+        getImageUrl={this.swapiService.getPersonImage}>
+
+        <Record field ="gender" label="Gender"/>
+        <Record field ="eyeColor" label="EyeColor"/>
+
+      </ItemDetails>
+    );
+
+    const starshipDetails = (
+      <ItemDetails 
+        itemId = {5} 
+        getData = {this.swapiService.getStarship}
+        getImageUrl={this.swapiService.getStarshipImage}>
+      
+        <Record field ="model" label="Model"/>
+        <Record field ="lenght" label="Length"/>
+        <Record field ="costInCredits" label="Cost"/>
+
+      </ItemDetails>
+    );
+
     return (
       <div className="app">
         <Header />
         <RandomPlanet />
-
-        <div className="row mb2">
-          <div className="col-md-6">
-            <ItemList onItemSelected = {this.onPersonSelected}/>
-          </div>
-          <div className="col-md-6">
-            <PersonDetails personId = {this.state.selectedPerson} />
-          </div>
-        </div>
-        < PeoplePage /> 
+        <Row left={personDetails} right={starshipDetails}/>
       </div>
     );
   }
