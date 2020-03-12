@@ -1,46 +1,37 @@
-import React from 'react';
+import React, { Component } from 'react';
+
+import RandomPlanet from '../random-planet';
+import ErrorBoundry from "../error-boundry";
+import Header from '../header';
+import PeoplePage  from "../pages";
+
+import SwapiService from '../../services/swapi-service';
+import { SwapiServiceProvider } from '../swapi-service-context';
 
 import './app.css';
 
-import Header from '../header';
-import RandomPlanet from '../random-planet';
-import Row from '../row/row';
+export default class App extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            hasError: false
+        };
+        this.swapiService = new SwapiService();
+    }
 
-import SwapiService from '../../services/swapi-service';
+    render() {
+        return (
+            <ErrorBoundry>
+                <SwapiServiceProvider value={this.swapiService}>
+                    <div className="app">
+                        <Header />
+                        <RandomPlanet />
 
-import {
-  PersonDetails,
-  PlanetDetails,
-  StarshipDetails,
-  PersonList, 
-  PlanetList, 
-  StarshipList
-} from '../sw-components';
+                        <PeoplePage />
 
-export default class App extends React.Component {
-  
-  constructor(props) {
-    super(props);
-    this.state = {
-      hasError: false
-    };
-    this.swapiService = new SwapiService();
-  }
-
-  render () {
-    return (
-      <div className="app">
-        <Header />
-        <RandomPlanet />
-        <Row left={<StarshipDetails itemId={9}/>} right={<PersonDetails itemId={4}/>}/>
-
-        <PlanetDetails itemId={6} />
-
-        <PersonList />
-        <PlanetList />
-        <StarshipList />
-
-      </div>
-    );
-  }
+                    </div>
+                </SwapiServiceProvider>
+            </ErrorBoundry>
+        );
+    }
 }
