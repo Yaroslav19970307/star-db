@@ -28,6 +28,7 @@ export default class App extends Component {
                         <RandomPlanet />
 
                         <PeoplePage />
+                        <PeoplePage />
 
                     </div>
                 </SwapiServiceProvider>
