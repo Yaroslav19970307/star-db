@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\app",
+    "\\src\\components\\hoc-helpers"
   ],
+  "SelectedNode": "\\src\\components\\hoc-helpers\\with-data.js",
   "PreviewInSolutionExplorer": false
 }

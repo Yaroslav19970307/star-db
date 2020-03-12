@@ -4,15 +4,23 @@ import './app.css';
 
 import Header from '../header';
 import RandomPlanet from '../random-planet';
+import Row from '../row/row';
 
 import SwapiService from '../../services/swapi-service';
-import Row from '../row/row';
-import ItemDetails, {Record} from '../item-details/item-details';
+
+import {
+  PersonDetails,
+  PlanetDetails,
+  StarshipDetails,
+  PersonList, 
+  PlanetList, 
+  StarshipList
+} from '../sw-components';
 
 export default class App extends React.Component {
   
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
     this.state = {
       hasError: false
     };
@@ -20,36 +28,18 @@ export default class App extends React.Component {
   }
 
   render () {
-    const personDetails = (
-      <ItemDetails 
-        itemId = {3} 
-        getData = {this.swapiService.getPerson}
-        getImageUrl={this.swapiService.getPersonImage}>
-
-        <Record field ="gender" label="Gender"/>
-        <Record field ="eyeColor" label="EyeColor"/>
-
-      </ItemDetails>
-    );
-
-    const starshipDetails = (
-      <ItemDetails 
-        itemId = {5} 
-        getData = {this.swapiService.getStarship}
-        getImageUrl={this.swapiService.getStarshipImage}>
-      
-        <Record field ="model" label="Model"/>
-        <Record field ="lenght" label="Length"/>
-        <Record field ="costInCredits" label="Cost"/>
-
-      </ItemDetails>
-    );
-
     return (
       <div className="app">
         <Header />
         <RandomPlanet />
-        <Row left={personDetails} right={starshipDetails}/>
+        <Row left={<StarshipDetails itemId={9}/>} right={<PersonDetails itemId={4}/>}/>
+
+        <PlanetDetails itemId={6} />
+
+        <PersonList />
+        <PlanetList />
+        <StarshipList />
+
       </div>
     );
   }
