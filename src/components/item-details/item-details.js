@@ -26,11 +26,11 @@ export default class ItemDetails extends Component {
         this.updateItem();
     }
 
-      componentDidUpdate(prevProps) {
-          if (this.props.itemId !== prevProps.itemId)
-          {
-              this.updateItem();
-          }
+    componentDidUpdate(prevProps) {
+        if (this.props.itemId !== prevProps.itemId)
+        {
+            this.updateItem();
+        }
     }
 
     updateItem = () => {
@@ -47,7 +47,7 @@ export default class ItemDetails extends Component {
                     image: getImageUrl(item)
                 });
             })
-    }
+    };
 
     render() {
         if (!this.state.item){

@@ -52,6 +52,6 @@ const withData = (View) => {
             return <View {...this.props} data={data}/>;
         }
     }
-}
+};
 
 export default withData;

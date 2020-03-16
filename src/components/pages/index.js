@@ -1,3 +1,10 @@
 import PeoplePage from "./people-page";
+import StarshipPage from "./starships-page";
+import PlanetPage from "./planets-page";
 
-export default PeoplePage;
+
+export {
+    PeoplePage,
+    StarshipPage,
+    PlanetPage
+};
