@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+
+    <item>
+      <g:id>TV_123456</g:id>
+      <g:title>LG 22LB4510 - 22" LED TV - 1080p (FullHD)</g:title>
+      <g:description>boast stunning picture quality</g:description>
+      <g:link>http://www.example.com/electronics/tv/220.html</g:link>
+      <g:image_link>http://image.example.com/TV_12.png</g:image_link>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>159.00 USD</g:price>
+      <g:new>1</g:new>
+      <g:shipping>
+        <g:country>US</g:country>
+        <g:service>Standard</g:service>
+        <g:price>14.95 USD</g:price>
+      </g:shipping>
+      <g:gtin>71919219405200</g:gtin>
+      <g:brand>LG</g:brand>
+      <g:mpn>22LB4510/US</g:mpn>
+      <g:google_product_category>Electro >TV</g:google_product_category>
+      <g:product_type>Consumer Electronics > TVs</g:product_type>
+    </item>
+    <item>
+      <g:id>PFM654321</g:id>
+      <g:title>Dior Correction Creme</g:title>
+      <g:description>Ultimate Correction Creme</g:description>
+      <g:link>http://www.example.com/Dior%20Capture%20X</g:link>
+      <g:image_link>http://image.example.com/1.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>99 USD</g:price>
+      <g:new>0</g:new>
+      <g:shipping>
+        <g:country>US</g:country>
+        <g:service>Standard Rate</g:service>
+        <g:price>4.95 USD</g:price>
+      </g:shipping>
+      <g:shipping>
+        <g:country>US</g:country>
+        <g:service>Next Day</g:service>
+        <g:price>8.50 USD</g:price>
+      </g:shipping>
+      <g:gtin>3348901056069</g:gtin>
+      <g:brand>Dior</g:brand>
+      <g:product_type>Personal > Cosmetics > Skin</g:product_type>
+      <g:google_product_category>Cosmetics > Skin</g:google_product_category>
+    </item>
+    <item>
+      <g:id>CLO-29473856-1</g:id>
+      <g:title>Roma Cotton Rich Bootcut Jeans - Size 8</g:title>
+      <g:description>A smart pair of bootcut jeans</g:description>
+      <g:link>http://www.example.com/clothing/women?extid=LO-296</g:link>
+      <g:image_link>http://image_links.example.com/CL26.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>29.50 USD</g:price>
+      <g:google_product_category>Clothing > Jeans</g:google_product_category>
+      <g:brand>M and S</g:brand>
+      <g:gender>Female</g:gender>
+      <g:age_group>Adult</g:age_group>
+      <g:color>Navy</g:color>
+      <g:size>8 Standard</g:size>
+      <g:item_group_id>CLO-29473856</g:item_group_id>
+      <g:mpn>B003J5F5EY</g:mpn>
+      <g:product_type>Women's Clothing > Bootcut</g:product_type>
+    </item>
+    <item>
+      <g:id>CLO-29473856-2</g:id>
+      <g:title>Roma Cotton Rich Bootcut Jeans - Size 8 Tall</g:title>
+      <g:description>A smart pair of bootcut jeans</g:description>
+      <g:link>http://www.example.com/clothing?extid=CLO-29473856</g:link>
+      <g:image_link>http://image_links.example.com/CLO-6.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>29.50 USD</g:price>
+      <g:google_product_category>Clothing > Jeans</g:google_product_category>
+      <g:brand>M and S</g:brand>
+      <g:gender>Female</g:gender>
+      <g:age_group>Adult</g:age_group>
+      <g:color>Navy</g:color>
+      <g:size>8 Tall</g:size>
+      <g:item_group_id>CLO-29473856</g:item_group_id>
+      <g:mpn>B003J5F5EY</g:mpn>
+      <g:product_type>Women's Clothing > Jeans > Bootcut</g:product_type>
+    </item>
+  </channel>
+</rss>
