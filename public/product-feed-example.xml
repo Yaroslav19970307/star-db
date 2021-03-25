@@ -1,92 +1,607 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
-  <channel>
-    <title>Example - Online Store</title>
-    <link>http://www.example.com</link>
-    <description>This is a sample feed</description>
-    <item>
-      <g:id>TV_123456</g:id>
-      <g:title>LG 22LB4510 - 22" LED TV - 1080p (FullHD)</g:title>
-      <g:description>boast stunning picture quality</g:description>
-      <g:link>http://www.example.com/electronics/tv/220.html</g:link>
-      <g:image_link>http://image.example.com/TV_12.png</g:image_link>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>159.00 USD</g:price>
-      <g:new>1</g:new>
-      <g:shipping>
-        <g:country>US</g:country>
-        <g:service>Standard</g:service>
-        <g:price>14.95 USD</g:price>
-      </g:shipping>
-      <g:gtin>71919219405200</g:gtin>
-      <g:brand>LG</g:brand>
-      <g:mpn>22LB4510/US</g:mpn>
-      <g:google_product_category>Electro >TV</g:google_product_category>
-      <g:product_type>Consumer Electronics > TVs</g:product_type>
-    </item>
-    <item>
-      <g:id>PFM654321</g:id>
-      <g:title>Dior Correction Creme</g:title>
-      <g:description>Ultimate Correction Creme</g:description>
-      <g:link>http://www.example.com/Dior%20Capture%20X</g:link>
-      <g:image_link>http://image.example.com/1.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>99 USD</g:price>
-      <g:new>0</g:new>
-      <g:shipping>
-        <g:country>US</g:country>
-        <g:service>Standard Rate</g:service>
-        <g:price>4.95 USD</g:price>
-      </g:shipping>
-      <g:shipping>
-        <g:country>US</g:country>
-        <g:service>Next Day</g:service>
-        <g:price>8.50 USD</g:price>
-      </g:shipping>
-      <g:gtin>3348901056069</g:gtin>
-      <g:brand>Dior</g:brand>
-      <g:product_type>Personal > Cosmetics > Skin</g:product_type>
-      <g:google_product_category>Cosmetics > Skin</g:google_product_category>
-    </item>
-    <item>
-      <g:id>CLO-29473856-1</g:id>
-      <g:title>Roma Cotton Rich Bootcut Jeans - Size 8</g:title>
-      <g:description>A smart pair of bootcut jeans</g:description>
-      <g:link>http://www.example.com/clothing/women?extid=LO-296</g:link>
-      <g:image_link>http://image_links.example.com/CL26.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>29.50 USD</g:price>
-      <g:google_product_category>Clothing > Jeans</g:google_product_category>
-      <g:brand>M and S</g:brand>
-      <g:gender>Female</g:gender>
-      <g:age_group>Adult</g:age_group>
-      <g:color>Navy</g:color>
-      <g:size>8 Standard</g:size>
-      <g:item_group_id>CLO-29473856</g:item_group_id>
-      <g:mpn>B003J5F5EY</g:mpn>
-      <g:product_type>Women's Clothing > Bootcut</g:product_type>
-    </item>
-    <item>
-      <g:id>CLO-29473856-2</g:id>
-      <g:title>Roma Cotton Rich Bootcut Jeans - Size 8 Tall</g:title>
-      <g:description>A smart pair of bootcut jeans</g:description>
-      <g:link>http://www.example.com/clothing?extid=CLO-29473856</g:link>
-      <g:image_link>http://image_links.example.com/CLO-6.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>29.50 USD</g:price>
-      <g:google_product_category>Clothing > Jeans</g:google_product_category>
-      <g:brand>M and S</g:brand>
-      <g:gender>Female</g:gender>
-      <g:age_group>Adult</g:age_group>
-      <g:color>Navy</g:color>
-      <g:size>8 Tall</g:size>
-      <g:item_group_id>CLO-29473856</g:item_group_id>
-      <g:mpn>B003J5F5EY</g:mpn>
-      <g:product_type>Women's Clothing > Jeans > Bootcut</g:product_type>
-    </item>
-  </channel>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>
+<title>star-chi</title>
+<link>https://star-chi.now.sh/</link>
+<description>star-chi.now Тест Фид/</description>
+<item>
+<g:id>5571</g:id>
+<g:title>Моп хлопковый Vermop Sprint Plus Basic, 50см, петельный, V-4950</g:title>
+<g:description>Универсальный петельный хлопковый моп для ежедневной уборки полов. Длина: 50 см. Крепления – «ушки» и «кармашки». Требуется предварительная стирка. Преимущества. Максимальное впитывание влаги и грязи. Область применения. Предназначен для ежедневной и генеральной уборки полов в помещениях средней проходимости. Используется с нейтральными и щелочными моющими средствами. Оптимален для влажной и мокрой уборки полов, в том числе структурированных. Эффективно удаляет слабые и средние загрязнения. Применим и д...</g:description>
+<g:link>https://opspot.ru/item/mop-hlopkovyy-vermop-sprint-plus-basic-50sm-petelnyy-v-4950</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/5571/vermop.jpg?1562751731</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>655.00 RUB</g:price>
+<g:brand>Vermop</g:brand>
+<g:mpn>V-4950</g:mpn>
+<g:product_type>Инвентарь для уборки > Мопы для уборки</g:product_type>
+</item>
+<item>
+<g:id>5570</g:id>
+<g:title>Доска-планшет BRAUBERG "Eco", 44х32см, А3, МДФ, с 2-мя прижимами</g:title>
+<g:description>Доска-планшет для комфортной работы с бумагами (МДФ). Снабжён двумя верхними прижимами. Формат: А3. Размеры: 44 х 32 см. Цвет: светло-коричневый. Преимущества. Лёгкая, прочная. Подходит для листов формата А3, а также для одновременной работы с двумя листами формата А4. Прижимы снабжены выдвижными подвесами для фиксации на стене. Область применения. Используется в офисах, бухгалтерии, канцеляриях, вузах и др. учреждениях.</g:description>
+<g:link>https://opspot.ru/item/doska-planshet-brauberg-eco-44h32sm-a3-mdf-s-2-mya-prizhimami</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/5570/0_2218.jpg?1586760153</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>163.00 RUB</g:price>
+<g:brand>BRAUBERG</g:brand>
+<g:mpn>232227</g:mpn>
+<g:product_type>Канцелярия > Папки, файлы</g:product_type>
+</item>
+<item>
+<g:id>4113</g:id>
+<g:title>Салфетка Vileda ПВАмикро 35х38см, пропитанная микрофибра, красная, 143591</g:title>
+<g:description>Салфетка из пропитанной микрофибры (85% полиэстер + 15% полиамид, покрытие 100% поливинилацетат) для уборки и сбора жидкостей. Размер – 35 х 38 см. Цвет – красный. Преимущества. Совмещает высокую эффективность микроволокна с простотой и скоростью работы салфетки из искусственной замши. Удаляет отпечатки пальцев и въевшуюся грязь без использования химических средств. Не оставляет разводов и ворса. Отлично впитывает и выполаскивается. Долговечна в условиях ручной стирки. Область применения. Влажная одно...</g:description>
+<g:link>https://opspot.ru/item/salfetka-vileda-pvamikro-35h38sm-propitannaya-mikrofibra-krasnaya-143591</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/4113/Photo1.jpg?1562751723</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>248.00 RUB</g:price>
+<g:brand>Vileda Professional</g:brand>
+<g:mpn>143591</g:mpn>
+<g:product_type>Протирочные материалы > Салфетки</g:product_type>
+</item>
+<item>
+<g:id>5583</g:id>
+<g:title>Пакет-майка 40+18х70см, ПНД, 30мкм, черный, 50шт/уп</g:title>
+<g:description>Пакет-майка, ПНД, чёрный. Размеры – 40 х 18 х 70 см. Толщина – 30 мкм. Максимальная нагрузка – 20 кг. В упаковке 50 штук. Преимущества. Не содержит токсических веществ. Удобен для упаковки, транспортировки и длительного хранения пищевых и непищевых продуктов. Область применения. Применим на фуд-кортах, торговых предприятиях, в пищевом производстве, на кухнях.</g:description>
+<g:link>https://opspot.ru/item/paket-mayka-40-18h70sm-pnd-30mkm-chernyy-50sht-up</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/5583/meshochek.jpg?1562751730</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>475.00 RUB</g:price>
+<g:brand>No name</g:brand>
+<g:mpn/>
+<g:product_type>Контейнеры. Приготовление и хранение пищи > Пакеты</g:product_type>
+</item>
+<item>
+<g:id>5591</g:id>
+<g:title>Салфетки-подкладки бумажные ажурные PAPSTAR, D8,5см, белые, 500шт/уп, 12296</g:title>
+<g:description>Ажурные салфетки-подкладки, изготовлены из целлюлозы. С тиснением, ажурные. Диаметр – 8,5 см. Цвет – белый. В упаковке – 500 штук. Преимущества. Салфетки прекрасно впитывают влагу, за счёт чего чашка сохраняет неподвижность. Эстетически привлекательны. Область применения. Предназначены для ежедневного использования. Применимы на домашних кухнях, предприятиях общественного питания (в ресторанах, кафе, барах), в столовых детских, санаторно-курортных, лечебно-профилактических и других учреждений.</g:description>
+<g:link>https://opspot.ru/item/salfetki-podkladki-bumazhnye-azhurnye-papstar-d8-5sm-belye-500sht-up-12296</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/5591/pod_chashechku.jpg?1562751731</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>157.50 RUB</g:price>
+<g:brand>PAPSTAR</g:brand>
+<g:mpn>12296</g:mpn>
+<g:product_type>Барные аксессуары и сервировка стола > Салфетки</g:product_type>
+</item>
+<item>
+<g:id>4925</g:id>
+<g:title>Салфетки бумажные ажурные D18см, белые, 250шт/уп</g:title>
+<g:description>Ажурные сервировочные салфетки, изготовлены из целлюлозы. С тиснением. Диаметр – 18 см. Цвет – белый. В упаковке – 250 штук. Преимущества. Салфетки прекрасно впитывают влагу, удаляют пищевые загрязнения. Эстетически привлекательны. Область применения. Предназначены для ежедневного использования. Применимы на домашних кухнях, предприятиях общественного питания (в ресторанах, кафе, барах), в столовых детских, санаторно-курортных, лечебно-профилактических и других учреждений.</g:description>
+<g:link>https://opspot.ru/item/salfetki-bumazhnye-azhurnye-d18sm-belye-250sht-up-1</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/4925/Photo1.jpg?1562751722</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>147.00 RUB</g:price>
+<g:brand>No name</g:brand>
+<g:mpn/>
+<g:product_type>Барные аксессуары и сервировка стола > Салфетки</g:product_type>
+</item>
+<item>
+<g:id>7104</g:id>
+<g:title>Порошок стиральный Лотос-М Color автомат, 3кг, для цветного белья</g:title>
+<g:description>Стиральный порошок для машинной стирки цветного белья. Отстирывает даже при 30°С. Ароматизирует бельё. Вес: 3 кг. Область применения. Предназначен для машинной стирки. Отстирывает уличные и бытовые загрязнения, в том числе жиры, белки и растительные пигменты. Не подходит для стирки изделий из шерсти и шёлка. Метод применения. Дозировать в зависимости от жёсткости и температуры воды, от характера загрязнений. Для конкретных изделий рекомендованную температуру стирки смотреть на ярлыках. Безопасность. ...</g:description>
+<g:link>https://opspot.ru/item/poroshok-stiralnyy-lotos-m-color-avtomat-3kg-dlya-cvetnogo-belya</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/7104/0_3395.jpg?1600777940</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>142.00 RUB</g:price>
+<g:brand>Лотос</g:brand>
+<g:mpn/>
+<g:product_type>Бытовая химия > Для стирки</g:product_type>
+</item>
+<item>
+<g:id>6373</g:id>
+<g:title>Полотенца бумажные Терес "Комфорт Maxi" с центральной вытяжкой, 235м, 1-сл, белая, 6рул/уп, Т-0153</g:title>
+<g:description>Однослойные бумажные полотенца в рулонах с центральной вытяжкой. Длина рулона – 235 м. Цвет – белый. В упаковке 6 рулонов. Преимущества. Изготовлены из целлюлозы, обладают высокой прочностью и отличной впитываемостью. Имеют тиснение. Предназначены для протирки поверхностей и рук, Область применения. Применимы на кухнях, в художественных школах, транспортных компаниях, санузлах, автомастерских.</g:description>
+<g:link>https://opspot.ru/item/polotenca-bumazhnye-teres-komfort-maxi-s-centralnoy-vytyazhkoy-235m-1-sl-belaya-6rul-up-t-0153</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6373/0153.jpg?1568373896</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>1114.50 RUB</g:price>
+<g:brand>Teres</g:brand>
+<g:mpn>Т-0153</g:mpn>
+<g:product_type>Бумага. Салфетки. Полотенца > Бумажные полотенца</g:product_type>
+</item>
+<item>
+<g:id>6897</g:id>
+<g:title>Уголь березовый Grillkoff Премиум, 2,5кг, пакет с ручкой</g:title>
+<g:description>Уголь берёзовый отборный. Вес – 2,5 кг. Преимущества. Не дает пламени, обладает высокой теплоотдачей, не выделяет канцерогенных веществ. Область применения. Предназначен для быстрого и качественного приготовления разнообразных блюд в мангалах и грилях.</g:description>
+<g:link>https://opspot.ru/item/ugol-berezovyy-grillkoff-premium-2-5kg-paket-s-ruchkoy</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6897/0_3100.jpg?1588066753</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>163.00 RUB</g:price>
+<g:brand>Grillkoff</g:brand>
+<g:mpn/>
+<g:product_type>Посуда одноразовая > Товары для пикника</g:product_type>
+</item>
+<item>
+<g:id>6375</g:id>
+<g:title>Бумага туалетная Терес "Комфорт" в рулоне, mini, 110м/рул, 2-сл, белая, 12рул/уп, Т-0043</g:title>
+<g:description>Двухслойная туалетная бумага в мини-рулоне. Длина рулона – 110 м. Цвет – белый. В упаковке 12 рулонов. Преимущества. Сделана из 100% целлюлозы и хорошо подходит для гигиенических целей. Отличается повышенной впитывающей способностью, в то же время низкая прочность во влажном состоянии позволяет бумаге хорошо растворяться в воде, что практически исключает засоры канализации. Область применения. Оптимальна для использования в санузлах, находящихся в зданиях с малой и средней посещаемостью (офисы, камерные...</g:description>
+<g:link>https://opspot.ru/item/bumaga-tualetnaya-teres-komfort-v-rulone-mini-110m-rul-2-sl-belaya-12rul-up-t-0043</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6375/2566.jpg?1568375958</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>1316.00 RUB</g:price>
+<g:brand>Teres</g:brand>
+<g:mpn>Т-0043</g:mpn>
+<g:product_type>Бумага. Салфетки. Полотенца > Туалетная бумага</g:product_type>
+</item>
+<item>
+<g:id>6329</g:id>
+<g:title>Маркер лаковый Edding, круглый наконечник 2-4мм, промышленный, белый, E-750/49</g:title>
+<g:description>Маркер лаковый с круглым наконечником, промышленный. В алюминиевом корпусе. Цвет: белый. Преимущества. Высококонцентрированный пигмент хорошо ложится на гладкие и шероховатые поверхности. Устойчив к кислотам, растворителям, механическому истиранию, свету. Толщина линии от 2 до 4 мм. Наконечник маркера может быть заменен по мере истирания. Область применения. Применим на производстве, складах, в транспортных компаниях. Используется для промышленной непрозрачной маркировки практически всех материалов: ...</g:description>
+<g:link>https://opspot.ru/item/marker-lakovyy-edding-kruglyy-nakonechnik-2-4mm-promyshlennyy-belyy-e-750-49</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6329/beliy_marker.jpg?1568120014</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>219.00 RUB</g:price>
+<g:brand>Edding</g:brand>
+<g:mpn>E-750/49</g:mpn>
+<g:product_type>Канцелярия > Письменные принадлежности</g:product_type>
+</item>
+<item>
+<g:id>6296</g:id>
+<g:title>Мешки для мусора Комус 60л, ПНД, в рулоне, 12мкм, с завязками, 20шт/рул</g:title>
+<g:description>Мешки для мусора однослойные, ПНД. С завязками. Объём – 60 л. Толщина мешка – 12 мкм. В рулоне 20 мусорных мешков. Преимущества. Прочные. Оптимальны для сбора бытового мусора. Соразмерны мусорным контейнерам. Удобны в применении – пакеты в рулоне разделены перфорацией. Область применения. Предназначены для хранения и дальнейшей транспортировки бытовых и продуктовых отходов, а также для сбора мусора в офисных помещениях, школах, квартирах, торговых сетях, ресторанах, больницах.</g:description>
+<g:link>https://opspot.ru/item/meshki-dlya-musora-komus-60l-pnd-v-rulone-12mkm-s-zavyazkami-20sht-rul</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6296/meshki-komus.jpg?1567064249</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>78.00 RUB</g:price>
+<g:brand>Комус</g:brand>
+<g:mpn>328819</g:mpn>
+<g:product_type>Мешки для мусора > Мешки 60-120л</g:product_type>
+</item>
+<item>
+<g:id>6326</g:id>
+<g:title>Лезвие для скребка Unger ErgoTec, 4см, 5шт/уп</g:title>
+<g:description>Размерные лезвия из нержавеющей стали для скребка для стёкол. Длина – 4 см. В упаковке 5 штук. Область применения. Лезвие из нержавеющей стали предназначено для скребков, которые используют для удаления сильных загрязнений с поверхностей из стекла и других гладких материалов. </g:description>
+<g:link>https://opspot.ru/item/lezvie-dlya-skrebka-unger-ergotec-4sm-5sht-up</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6326/0_2518.jpg?1592478498</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>159.00 RUB</g:price>
+<g:brand>Unger</g:brand>
+<g:mpn>SRB20</g:mpn>
+<g:product_type>Инвентарь для уборки > Скребки для пола, стекол</g:product_type>
+</item>
+<item>
+<g:id>6293</g:id>
+<g:title>Салфетка Luscan 30х38см, вискоза, цвет в ассортименте, 5шт/уп</g:title>
+<g:description>Салфетка вискозная для удаления загрязнений и сбора жидкостей. Размер – 30 х 38 см. В упаковке – 3 штуки. Преимущества. Применима для сухой и влажной уборки практически любых поверхностей. Рассчитана на многократное использование. Не оставляет ворса и разводов. Область применения. Оптимальна для ежедневной ручной уборки. Убирает пыль, влагу, грязь.</g:description>
+<g:link>https://opspot.ru/item/salfetka-luscan-30h38sm-viskoza-cvet-v-assortimente-5sht-up</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6293/0_2485.jpg?1586875556</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>38.60 RUB</g:price>
+<g:brand>Luscan</g:brand>
+<g:mpn/>
+<g:product_type>Протирочные материалы > Салфетки</g:product_type>
+</item>
+<item>
+<g:id>6295</g:id>
+<g:title>Мешки для мусора Офисмаг 30л, ПНД, в рулоне, 10мкм, с завязками, 30шт/рул</g:title>
+<g:description>Мешки для мусора однослойные, с завязками. ПНД. Толщина пакета: 10 мкм. Объём – 30 л. В рулоне 30 мусорных мешков. Преимущества. Прочные. Оптимальны для использования с мусорными корзинами и вёдрами. Удобны в применении – мусорные пакеты в рулоне разделены перфорацией, легко отрываются. Область применения. Предназначены для хранения и дальнейшей транспортировки бытовых, мусорных и продуктовых отходов, а также для сбора мусора в офисных помещениях, школах, квартирах, торговых сетях, магазинах, больницах.</g:description>
+<g:link>https://opspot.ru/item/meshki-dlya-musora-ofismag-30l-pnd-v-rulone-10mkm-s-zavyazkami-30sht-rul</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6295/ofismag.jpg?1567064941</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>79.00 RUB</g:price>
+<g:brand>Офисмаг</g:brand>
+<g:mpn>601396</g:mpn>
+<g:product_type>Мешки для мусора > Мешки 20-35л</g:product_type>
+</item>
+<item>
+<g:id>6891</g:id>
+<g:title>Средство для посудомоечных машин (детергент жидкий) Diversey Suma Ultra L2, 5л, для мягкой воды</g:title>
+<g:description>Средство для посудомоечных машин (детергент жидкий) SumaUltra L2, 5л, для мягкой воды Концентрированный препарат, обладающий высокими моющими свойствами. PH концентрата – около 12; pH рабочего раствора – около 9. Область применения. Применяется для мытья посуды в посудомоечных машинах различных типов. Используется в разведенном виде. Хорошо удаляет все виды загрязнений, в том числе засохшую грязь, а также жир и накипь. Отлично растворяет соли и служит профилактическим средством от их отложения. Предназ...</g:description>
+<g:link>https://opspot.ru/item/sredstvo-dlya-posudomoechnyh-mashin-detergent-zhidkiy-diversey-suma-ultra-l2-5l-dlya-myagkoy-vody</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6891/0_3093.jpg?1601278607</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>2490.00 RUB</g:price>
+<g:brand>Suma</g:brand>
+<g:mpn>100888597</g:mpn>
+<g:product_type>Химия для уборки профессиональная > Для кухни</g:product_type>
+</item>
+<item>
+<g:id>4264</g:id>
+<g:title>Мешки кондитерские ONE WAY "Comfort Clear" в ролике, 53х28см, одноразовые, 100шт/уп</g:title>
+<g:description>Прозрачный кондитерский мешок из пищевого полиэтилена, имеет картонный диспенсер. Высота: 53 см. Незаменим в приготовлении десертов, муссов, тортов. В упаковке 100 шт. Преимущества. Мешки одноразовые. Обладают высокими прочностными и санитарными характеристиками, могут использоваться весь рабочий день. Каждый мешок стерилен. Мешки удобно хранить в упаковке, в которой они продаются. Область применения. Предназначен для предприятий пищевой и кондитерской промышленности, общественного питания. </g:description>
+<g:link>https://opspot.ru/item/meshki-konditerskie-one-way-comfort-clear-v-rolike-53h28sm-odnorazovye-100sht-up</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/4264/0_Konditerskiy_paket_Comfort_Clear_h=53_2_copy.jpg?1591605298</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>1987.00 RUB</g:price>
+<g:brand>ONE WAY</g:brand>
+<g:mpn>3103</g:mpn>
+<g:product_type>Контейнеры. Приготовление и хранение пищи > Пакеты</g:product_type>
+</item>
+<item>
+<g:id>4021</g:id>
+<g:title>Средство моющее для генеральной уборки Econobel MULTI PLAN, 5л</g:title>
+<g:description>Жидкое сильнощелочное концентрированное высокопенное высокоактивное средство. Уровень рН – 11,0–12,0. Изготовлено на основе оптимизированной смеси щелочей. Обладает высоким коэффициентом грязеотслоения. Не оставляет разводов. Область применения. Используется для ручной уборки. Оптимально для генеральных уборок – воздействует быстро и эффективно на любых водостойких и устойчивых к воздействию щелочей поверхностях. Не использовать для обработки алюминиевых и медных поверхностей. Удаляет загрязнения живот...</g:description>
+<g:link>https://opspot.ru/item/sredstvo-moyushchee-dlya-generalnoy-uborki-econobel-multi-plan-5l-1</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/4021/Photo1.jpg?1562751722</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>515.97 RUB</g:price>
+<g:brand>Econobel professional</g:brand>
+<g:mpn>03050-5,0</g:mpn>
+<g:product_type>Химия для уборки профессиональная > Для пола</g:product_type>
+</item>
+<item>
+<g:id>5733</g:id>
+<g:title>Клей-карандаш Erich Krause "Extra", 21г</g:title>
+<g:description>Клей-карандаш. Вес: 21 г. Преимущества. Качественный, удобный в применении, компактный. Область применения. Применим в любой бухгалтерии, канцелярии, в офисах и учебных заведениях. </g:description>
+<g:link>https://opspot.ru/item/kley-karandash-erich-krause-extra-21g</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/5733/erih_krauze.jpeg?1565269708</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>54.40 RUB</g:price>
+<g:brand>Erich Krause</g:brand>
+<g:mpn>2368</g:mpn>
+<g:product_type>Канцелярия > Сопутствующие товары</g:product_type>
+</item>
+<item>
+<g:id>6284</g:id>
+<g:title>Кофе Sical "Vending" в зернах, 60% арабика + 40% робуста, 1кг</g:title>
+<g:description>Кофе в зёрнах. Смесь арабики (60%) и робусты (40%). Вес упаковки: 1 кг. Преимущества. Один из самых популярных кофе в Португалии. Средней обжарки. Разработан специально для использования в вендинговых аппаратах и профессиональных кофемашинах. Обладает насыщенным, глубоким вкусом с нотками горького шоколада, сладким, нежным ароматом и приятным послевкусием. Поставляется в мягкой вакуумной упаковке, которая удобна в транспортировке и оптимальна для сохранения обжаренных кофейных зёрен. Область применени...</g:description>
+<g:link>https://opspot.ru/item/kofe-sical-vending-v-zernah-60-arabika-40-robusta-1kg</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6284/kofiy.jpg?1566993069</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>790.00 RUB</g:price>
+<g:brand>Sical</g:brand>
+<g:mpn/>
+<g:product_type>Барные аксессуары и сервировка стола > Продукты питания</g:product_type>
+</item>
+<item>
+<g:id>6286</g:id>
+<g:title>Щетка пластиковая для пола Vileda Экономик, 30см, ворс средней жесткости, без ручки, 102583</g:title>
+<g:description>Пластиковая щётка для уборки пола, ворс средней жесткости. Ручка в комплект не входит. Длина: 30 см. Преимущества. Длинный мягкий ворс хорошо подметает любой мусор и собирает пыль – как в помещении, так и на открытых балконах, террасах, верандах. Держатель для ручки и пластиковая колодка делают изделие долговечным и надёжным. Область применения. Предназначена для уборки пола в домах, офисах, кафе, складских помещениях. Применима для уборки прилегающей к зданию территории.</g:description>
+<g:link>https://opspot.ru/item/shchetka-plastikovaya-dlya-pola-vileda-ekonomik-30sm-vors-sredney-zhestkosti-bez-ruchki-102583</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6286/0_2478.jpg?1609763969</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>333.00 RUB</g:price>
+<g:brand>Vileda Professional</g:brand>
+<g:mpn>102583</g:mpn>
+<g:product_type>Инвентарь для уборки > Щетки</g:product_type>
+</item>
+<item>
+<g:id>4559</g:id>
+<g:title>Накладная, А5, 135х195мм, 1-сл, офсет, 100л/уп</g:title>
+<g:description>Накладные для любых предприятий и организаций. Формат А5. Офсетная печать. Объём: 100 листов. Преимущества. Изготовлены из качественной бумаги. Печать яркая и чёткая. Область применения. Используется на предприятиях, в учреждениях и организациях.</g:description>
+<g:link>https://opspot.ru/item/nakladnaya-a5-135h195mm-1-sl-ofset-100l-up</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/4559/0_1125.jpg?1605613426</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>27.66 RUB</g:price>
+<g:brand>No name</g:brand>
+<g:mpn/>
+<g:product_type>Канцелярия > Бумажная продукция</g:product_type>
+</item>
+<item>
+<g:id>5081</g:id>
+<g:title>Триггер для флакона 0,5л, белый</g:title>
+<g:description>Триггер для флакона с узким горлышком, курковый. Цвет: белый. Преимущества. Сделан из прочного пластика, долговечен. Удобно ложится в руку. Область применения. Предназначен для распыления жидкостей. Может использоваться для распыления моющих средств, удобрений и прочих специальных растворов.</g:description>
+<g:link>https://opspot.ru/item/trigger-dlya-flakona-0-5l-belyy-1</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/5081/Photo1.jpg?1562751730</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>31.00 RUB</g:price>
+<g:brand>No name</g:brand>
+<g:mpn/>
+<g:product_type>Инвентарь для уборки > Триггеры, флаконы</g:product_type>
+</item>
+<item>
+<g:id>5072</g:id>
+<g:title>Краска штемпельная Colop, 25мл, водно-глицериновая основа, синяя</g:title>
+<g:description>Штемпельная краска на водно-глицериновой основе. Объём: 25 мл. Цвет: синий. Преимущества. Качественная краска, цвет насыщенный, быстро сохнет. Область применения. Применима в любой бухгалтерии, канцелярии, в офисах и учебных заведениях. </g:description>
+<g:link>https://opspot.ru/item/kraska-shtempelnaya-colop-25ml-vodno-glicerinovaya-osnova-sinyaya</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/5072/Photo1.jpg?1562751730</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>95.30 RUB</g:price>
+<g:brand>Colop</g:brand>
+<g:mpn>801</g:mpn>
+<g:product_type>Канцелярия > Сопутствующие товары</g:product_type>
+</item>
+<item>
+<g:id>7131</g:id>
+<g:title>Порошок стиральный Аистенок "Волшебный вихрь", 4кг, бесфосфатный, для детского белья</g:title>
+<g:description>Стиральный порошок для детских вещей. Для машинной и ручной стирки. Бесфосфатный, гипоаллергенный. Отстирывает даже при 30°С. Вес упаковки: 4 кг. Область применения. Предназначено для стирки, отбеливания и замачивания детской одежды, в том числе пеленок и белья детей первого года жизни. Можно использовать для стирки всех видов тканей, кроме шерсти и шелка в стиральных машинах любого типа или вручную. Метод применения. Дозировать в зависимости от типа стирки и характера загрязнений согласно рекомендаци...</g:description>
+<g:link>https://opspot.ru/item/poroshok-stiralnyy-aistenok-volshebnyy-vihr-4kg-besfosfatnyy-dlya-detskogo-belya</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/7131/0_3422.jpg?1601453207</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>443.00 RUB</g:price>
+<g:brand>Аистёнок</g:brand>
+<g:mpn/>
+<g:product_type>Бытовая химия > Для стирки</g:product_type>
+</item>
+<item>
+<g:id>5064</g:id>
+<g:title>Нож канцелярский STAFF, лезвие 9мм, с фиксатором, цвет в ассортименте, в упаковке</g:title>
+<g:description>Канцелярский нож с фиксатором. Цвета в ассортименте. Ширина лезвия – 9 мм. В упаковке. Область применения. Острый и прочный нож применим в любой канцелярии, в офисах и учебных заведениях. </g:description>
+<g:link>https://opspot.ru/item/nozh-kancelyarskiy-staff-lezvie-9mm-s-fiksatorom-cvet-v-assortimente-v-upakovke</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/5064/0_1697.jpg?1592567175</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>14.20 RUB</g:price>
+<g:brand>STAFF</g:brand>
+<g:mpn>230484</g:mpn>
+<g:product_type>Канцелярия > Сопутствующие товары</g:product_type>
+</item>
+<item>
+<g:id>3985</g:id>
+<g:title>Салфетка Unger SmartColor MicroWipe 2000, 40х40см, микрофибра, зеленая</g:title>
+<g:description>Салфетка из микрофибры для уборки и сбора жидкостей. Допускается как ручная стирка, так и машинная. При стирке не использовать кондиционер. Не гладить. Размер – 40 х 40 см. Цвет – зелёный. Преимущества. Впитывающая способность в 6 (шесть) раз превышает вес салфетки (1400 мл/м2), что позволяет быстро собирать разлитую жидкость и легко промывать поверхности. Не оставляет разводов. Не теряет своих свойств даже после 1000 стирок (при температуре не выше 60°С). Оверлок сохраняет края салфетки. Область приме...</g:description>
+<g:link>https://opspot.ru/item/salfetka-unger-smartcolor-microwipe-2000-40h40sm-mikrofibra-zelenaya-1</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/3985/Photo1.jpg?1562751721</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>431.76 RUB</g:price>
+<g:brand>Unger</g:brand>
+<g:mpn>MB40O</g:mpn>
+<g:product_type>Протирочные материалы > Салфетки</g:product_type>
+</item>
+<item>
+<g:id>6327</g:id>
+<g:title>Лезвие для скребка Unger ErgoTec, 10см, двухстороннее, 10шт/уп</g:title>
+<g:description>Двухсторонние лезвия из нержавеющей стали для скребка для стёкол. Длина – 10 см. В пенале 10 штук. Область применения. Лезвие двухстороннее, одна сторона тупая – для цемента, извести и т.п., другая острая – для скотча краски и т.п. Предназначено для скребков, удаляющих сильные загрязнения с поверхностей из стекла и других гладких материалов. </g:description>
+<g:link>https://opspot.ru/item/lezvie-dlya-skrebka-unger-ergotec-10sm-dvuhstoronnee-10sht-up</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6327/penal.jpg?1567431345</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>500.65 RUB</g:price>
+<g:brand>Unger</g:brand>
+<g:mpn>RB100</g:mpn>
+<g:product_type>Инвентарь для уборки > Скребки для пола, стекол</g:product_type>
+</item>
+<item>
+<g:id>5057</g:id>
+<g:title>Ручка шариковая CORVINA "51 Classic", линия 0,7мм, синяя, шестигранный прозрачный корпус</g:title>
+<g:description>Шариковая ручка. Не автоматическая. Корпус из прозрачного пластика. Цвет чернил: синий. Преимущества. Качественные чернила обеспечивают уверенное лёгкое письмо. Имеет сменный стержень. Область применения. Универсальна. Применима в учебных заведениях, делопроизводстве, учреждениях, на любых предприятиях. </g:description>
+<g:link>https://opspot.ru/item/ruchka-sharikovaya-corvina-51-classic-liniya-0-7mm-sinyaya-shestigrannyy-prozrachnyy-korpus</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/5057/korvina_sinyaya.jpg?1600257815</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>11.20 RUB</g:price>
+<g:brand>CORVINA</g:brand>
+<g:mpn/>
+<g:product_type>Канцелярия > Письменные принадлежности</g:product_type>
+</item>
+<item>
+<g:id>3988</g:id>
+<g:title>Салфетка Unger SmartColor MicroWipe 4000, 40х38см, микрофибра, синяя</g:title>
+<g:description>Салфетка из микрофибры для уборки и сбора жидкостей. Допускается как ручная стирка, так и машинная. При стирке не использовать кондиционер. Не гладить. Размер – 40 х 40 см. Цвет – синий. Преимущества. Впитывающая способность в 6 (шесть) раз превышает вес салфетки (1700 мл/м2), что позволяет быстро собирать разлитую жидкость и легко промывать поверхности. Не оставляет разводов. Не теряет своих свойств даже после 1000 стирок (при температуре не выше 60°С). Оверлок сохраняет края салфетки. Область примене...</g:description>
+<g:link>https://opspot.ru/item/salfetka-unger-smartcolor-microwipe-4000-40h38sm-mikrofibra-sinyaya-1</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/3988/Photo1.jpg?1562751721</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>655.00 RUB</g:price>
+<g:brand>Unger</g:brand>
+<g:mpn>MF40B</g:mpn>
+<g:product_type>Протирочные материалы > Салфетки</g:product_type>
+</item>
+<item>
+<g:id>5400</g:id>
+<g:title>Ручка шариковая Attache "Style", линия 0,5мм, набор, цвет в ассортименте, 4 шт/уп</g:title>
+<g:description>Шариковая ручка. Не автоматическая, пластиковая. Цвет чернил: в ассортименте. В упаковке 4 штуки. Преимущества. Качественные чернила обеспечивают лёгкость письма. Толщина линии: 0,5 мм. Область применения. Универсальна. Применима в учебных заведениях, делопроизводстве, учреждениях, на любых предприятиях. </g:description>
+<g:link>https://opspot.ru/item/ruchka-sharikovaya-attache-style-liniya-0-5mm-nabor-cvet-v-assortimente-4-sht-up</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/5400/ruchechki.jpg?1562751727</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>58.31 RUB</g:price>
+<g:brand>Attache</g:brand>
+<g:mpn>148059</g:mpn>
+<g:product_type>Канцелярия > Письменные принадлежности</g:product_type>
+</item>
+<item>
+<g:id>4285</g:id>
+<g:title>Салфетки бумажные Сыктывкарские Profi Pack 24х24см, 2-сл, оранжевые, 250шт/уп</g:title>
+<g:description>Двухслойные сервировочные салфетки изготовлены из 100% целлюлозы. Без центрального тиснения. Размеры – 24 х 24 см. Цвет – оранжевый. В пачке – 250 шт. Преимущества. Салфетки прекрасно впитывают влагу, сохраняя при этом необходимую прочность. Область применения. Предназначены для ежедневного использования. Двухслойные салфетки необходимы на домашних кухнях, предприятиях общественного питания (в ресторанах, кафе, барах), в столовых детских, санаторно-курортных, лечебно-профилактических и других учреждений.</g:description>
+<g:link>https://opspot.ru/item/salfetki-bumazhnye-syktyvkarskie-profi-pack-24h24sm-2-sl-oranzhevye-250sht-up-1</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/4285/Photo1.jpg?1562751726</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>155.00 RUB</g:price>
+<g:brand>Сыктывкарские</g:brand>
+<g:mpn>Н2250ТН</g:mpn>
+<g:product_type>Бумага. Салфетки. Полотенца > Бумажные салфетки</g:product_type>
+</item>
+<item>
+<g:id>6302</g:id>
+<g:title>Разделитель листов пластиковый Attache, 290x210мм, 120мкм, цифровой, серый, 31лист/уп</g:title>
+<g:description>Разделитель листов пластиковый для классификации и систематизации бумаг. Цифровой, с индексами от 1 до 31. Размеры: 290 х 210 мм. Толщина: 120 мкм. В упаковке 31 лист. Цвет: серый. Преимущества. Прочный, эстетически привлекательный. Позволяет содержать бумаги в порядке и быстро ориентироваться при поиске нужных документов. Область применения. Используется в офисах, бухгалтерии, библиотеках, канцеляриях, школах и др. учреждениях.</g:description>
+<g:link>https://opspot.ru/item/razdelitel-listov-plastikovyy-attache-290x210mm-120mkm-cifrovoy-seryy-31list-up</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6302/beliy.jpg?1567068802</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>138.00 RUB</g:price>
+<g:brand>Attache</g:brand>
+<g:mpn>198678</g:mpn>
+<g:product_type>Канцелярия > Папки, файлы</g:product_type>
+</item>
+<item>
+<g:id>4655</g:id>
+<g:title>Средство чистящее Химитек Фобос, 5л, против застарелых минеральных загрязнений</g:title>
+<g:description>Концентрированное жидкое низкопенное кислотное средство для трудноудаляемых минеральных отложений и ржавчины. Уровень pH 1% раствора: 1–2. Области применения. Предназначено для очистки различных кислотостойких твёрдых поверхностей. Применимо для промывки систем тепло- и технического водоснабжения методом рециркуляционной мойки, а также для очистки канализационных систем и обработки фаянсовых поверхностей сантехнического оборудования. Удаляет стойкие загрязнения: ржавчину, минеральные отложения, накипь,...</g:description>
+<g:link>https://opspot.ru/item/sredstvo-chistyashchee-himitek-fobos-5l-protiv-zastarelyh-mineralnyh-zagryazneniy-1</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/4655/Photo1.jpg?1562751727</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>755.00 RUB</g:price>
+<g:brand>Химитек</g:brand>
+<g:mpn>120606</g:mpn>
+<g:product_type>Химия для уборки профессиональная > Для промышленных загрязнений</g:product_type>
+</item>
+<item>
+<g:id>6312</g:id>
+<g:title>Моп микрофибровый Росмоп MMA-35-M, 35см, М-образное крепление, с абразивными вставками</g:title>
+<g:description>Плоский моп, выполненный полностью из микрофибрового волокна, со специальными вставками для облегчения скольжения по любым твёрдым поверхностям. Предварительная стирка не требуется и остаётся на усмотрение потребителя. Крепление – «кнопки». Размер: 35 см. Рекомендуется к использованию в системе предварительной подготовки мопов. Преимущества. Благодаря усиленным вставкам, ошибочно принимаемым за абразивные полосы, легко проникает в неровную структуру пола или шва. Предполагает возможность отжатия вручну...</g:description>
+<g:link>https://opspot.ru/item/mop-mikrofibrovyy-rosmop-mma-35-m-35sm-m-obraznoe-kreplenie-s-abrazivnymi-vstavkami</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6312/rosmop.jpg?1567076991</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>319.00 RUB</g:price>
+<g:brand>Росмоп</g:brand>
+<g:mpn>MMA-35-M</g:mpn>
+<g:product_type>Инвентарь для уборки > Мопы для уборки</g:product_type>
+</item>
+<item>
+<g:id>5113</g:id>
+<g:title>Освежитель воздуха Kleenex "Energy", 300мл, спрей, сухое распыление, сменный блок, 6188</g:title>
+<g:description>Сменный картридж к диспенсеру для освежителя воздуха. Сухой спрей с приятным успокаивающим запахом. Картридж содержит около 6000 доз освежителя. Объём: 300 мл. Преимущества. Технология сухого спрея позволяет эффективно увеличить концентрацию ароматических частиц в объёме воздуха, что позволяет дольше удерживать аромат. В системе нет летучих органических соединений. В составе присутствуют компоненты растения синдора, обладающего способностью нейтрализовывать неприятные запахи. Область применения. Избав...</g:description>
+<g:link>https://opspot.ru/item/osvezhitel-vozduha-kleenex-energy-300ml-sprey-suhoe-raspylenie-smennyy-blok-6188</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/5113/6188.jpg?1574341784</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>1281.18 RUB</g:price>
+<g:brand>Kleenex</g:brand>
+<g:mpn>6188</g:mpn>
+<g:product_type>Химия для уборки профессиональная > Для удаления запахов</g:product_type>
+</item>
+<item>
+<g:id>6930</g:id>
+<g:title>Стакан бумажный Ecocups 250мл, D80мм, 1-сл, без принта, белый, 50шт/уп</g:title>
+<g:description>Бумажный стакан для напитков. Однослойный. Объём: 250 мл. Диаметр: 80 мм. Цвет – белый. Без принта. Биоразлагаемый. В упаковке – 50 штук. Преимущества. Применим для холодных и горячих напитков. При необходимости стакан можно дополнить крышкой с откидным носиком. Область применения. Предназначен для использования в кафе, точках стрит-фуда, офисах, торговых точках, школах, на фуд-кортах.</g:description>
+<g:link>https://opspot.ru/item/stakan-bumazhnyy-ecocups-250ml-d80mm-1-sl-bez-printa-belyy-50sht-up</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6930/0_3146.jpg?1590059258</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>124.00 RUB</g:price>
+<g:brand>Ecocups</g:brand>
+<g:mpn/>
+<g:product_type>Посуда одноразовая > Для напитков</g:product_type>
+</item>
+<item>
+<g:id>6339</g:id>
+<g:title>Знак пожарной безопасности "Пожарный кран" F02, 10х10см, с клеевым слоем</g:title>
+<g:description>Знак пожарной безопасности F02 («Пожарный кран»). Наклейка (самоклеящаяся пленка ПВХ). Размеры: 10 х 10 см. Цвет: красно-белый. Преимущества. Эстетически привлекателен, не имеет ограничений в использовании. Область применения. Предназначен для размещения в местах нахождения комплекта пожарного крана с пожарным рукавом и стволом.</g:description>
+<g:link>https://opspot.ru/item/znak-pozharnoy-bezopasnosti-pozharnyy-kran-f02-10h10sm-s-kleevym-sloem</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6339/pojarniy_znak.jpg?1568193945</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>16.00 RUB</g:price>
+<g:brand>No name</g:brand>
+<g:mpn/>
+<g:product_type>Инвентарь для уборки > Знаки безопасности</g:product_type>
+</item>
+<item>
+<g:id>6306</g:id>
+<g:title>Щетка пластиковая для пола Brush Clean, жесткий ворс, без ручки</g:title>
+<g:description>Пластиковая щётка для уборки пола. Ручка в комплект не входит. Длина: 28 см. Преимущества. Жёсткий короткий ворс хорошо очищает пятна и уличные загрязнения – как в помещении, так и на открытых балконах, террасах, верандах. Держатель для ручки и пластиковая колодка делают изделие удобным, долговечным и надёжным. Область применения. Предназначена для уборки пола в домах, офисах, кафе, складских помещениях. Применима для уборки прилегающей к зданию территории.</g:description>
+<g:link>https://opspot.ru/item/shchetka-plastikovaya-dlya-pola-brush-clean-zhestkiy-vors-bez-ruchki</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6306/0_2498.jpg?1609762130</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>358.00 RUB</g:price>
+<g:brand>Brush Clean</g:brand>
+<g:mpn>981</g:mpn>
+<g:product_type>Инвентарь для уборки > Щетки</g:product_type>
+</item>
+<item>
+<g:id>5103</g:id>
+<g:title>Свеча цилиндрическая D50мм, H100мм, с конусом, белая, в индивидуальной упаковке</g:title>
+<g:description>Свеча цилиндрическая с конусом. Диаметр: 50 мм. Высота: 100 мм.В индивидуальной упаковке. Цвет белый. Преимущества. Отличается высоким качеством, долго горит, при соблюдении правил безопасности не создаёт проблем при использовании. Метод применения. Поместить свечу в плотный подсвечник, установить его на гладкой твёрдой негорючей поверхности в удалении от легко воспламеняющихся предметов. По окончании горения собрать и утилизировать остатки.</g:description>
+<g:link>https://opspot.ru/item/svecha-cilindricheskaya-d50mm-h100mm-s-konusom-belaya-v-individualnoy-upakovke-1</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/5103/0_1730.jpg?1591800415</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>69.00 RUB</g:price>
+<g:brand>No name</g:brand>
+<g:mpn/>
+<g:product_type>Барные аксессуары и сервировка стола > Свечи</g:product_type>
+</item>
+<item>
+<g:id>4222</g:id>
+<g:title>Щетка пластиковая для пола "Элисса", мягкий ворс 6,5см, без ручки</g:title>
+<g:description>Пластиковая щётка для уборки пола. Ручка в комплект не входит. Преимущества. Мягкий ворс длиной 6,5 см хорошо подметает любой мусор и собирает пыль – как в помещении, так и на открытых балконах, террасах, верандах. Держатель для ручки и пластиковая колодка делают изделие долговечным и надёжным. Область применения. Предназначена для уборки пола в домах, офисах, кафе, складских помещениях. Применима для уборки прилегающей к зданию территории.</g:description>
+<g:link>https://opspot.ru/item/shchetka-plastikovaya-dlya-pola-elissa-myagkiy-vors-6-5sm-bez-ruchki-1</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/4222/Photo1.jpg?1562751727</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>77.81 RUB</g:price>
+<g:brand>Мульти-Пласт 2000</g:brand>
+<g:mpn>46200000020141</g:mpn>
+<g:product_type>Инвентарь для уборки > Щетки</g:product_type>
+</item>
+<item>
+<g:id>5099</g:id>
+<g:title>Точилка пластиковая Пифагор "Сундучок", с контейнером, цвет в ассортименте</g:title>
+<g:description>Точилка с контейнером. Пластиковый корпус, цвет в ассортименте. Область применения. Предназначена для использования в офисах, канцеляриях, на складах, в любых учрждениях и учебных заведениях. Острая и удобная точилка совершенно безопасна и проста в обслуживании.</g:description>
+<g:link>https://opspot.ru/item/tochilka-plastikovaya-pifagor-sunduchok-s-konteynerom-cvet-v-assortimente-1</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/5099/Photo1.jpg?1562751729</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>4.80 RUB</g:price>
+<g:brand>Пифагор</g:brand>
+<g:mpn>226938</g:mpn>
+<g:product_type>Канцелярия > Сопутствующие товары</g:product_type>
+</item>
+<item>
+<g:id>4081</g:id>
+<g:title>Флаундер (держатель мопа) пластиковый Bol, 40х12,5см, синий</g:title>
+<g:description>Флаундер (держатель мопа). Пластиковый, складной, с педалью. Крепления – «ушки». Длина – 40 см. Преимущества. Конструкция флаундера предусматривает возможность отжимать моп в механическом отжиме. Центральный шарнир позволяет мыть не только горизонтальные, но и вертикальные поверхности (лестницы, стены, витрины и т.д.), даёт доступ к полу под мебелью. Уборка выигрывает в качестве за счёт равномерного прилегания флаундера к загрязнённой поверхности.</g:description>
+<g:link>https://opspot.ru/item/flaunder-derzhatel-mopa-plastikovyy-bol-40h12-5sm-siniy</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/4081/Photo1.jpeg?1562751722</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>2278.92 RUB</g:price>
+<g:brand>Bol</g:brand>
+<g:mpn>13.407</g:mpn>
+<g:product_type>Инвентарь для уборки > Швабры для мытья пола, флаундеры</g:product_type>
+</item>
+<item>
+<g:id>5020</g:id>
+<g:title>Средство моющее для посуды Золушка, 5л, концентрат, лимон</g:title>
+<g:description>Концентрированное средство для мытья посуды и кухонных поверхностей. Не оставляет разводов, придаёт посуде блеск. Превосходно очищает посуду даже в холодной воде любой степени жёсткости. Даёт высокую пену. Имеет приятный запах лимона. Экономично в использовании. Объём: 5 литров. Область применения. Предназначено для мытья любой посуды: стеклянной, алюминиевой, хрустальной, фарфоровой, серебряной. Применимо для мытья приборов из нержавеющей стали. Моющая формула средства очищает посуду от пригоревших и з...</g:description>
+<g:link>https://opspot.ru/item/sredstvo-moyushchee-dlya-posudy-zolushka-5l-koncentrat-limon-1</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/5020/Photo1.jpg?1562751729</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>149.00 RUB</g:price>
+<g:brand>Золушка</g:brand>
+<g:mpn/>
+<g:product_type>Бытовая химия > Для кухни</g:product_type>
+</item>
+<item>
+<g:id>4978</g:id>
+<g:title>Салфетки бумажные Lime Napkins диспенсерные, 1-сл, белые, 100шт/уп, 247100</g:title>
+<g:description>Однослойные салфетки для настольных диспенсеров. С тиснением. Размеры сложенного листа: 12 х 8 см. Цвет – белый. В упаковке – 100 штук. Преимущества. Салфетки изготовлены из 100% целлюлозы, прекрасно впитывают влагу. Мягкие, не сминаются при отборе из диспенсера. Область применения. Предназначены для ежедневного использования. Однослойные салфетки необходимы на домашних кухнях, предприятиях общественного питания (в ресторанах, кафе, барах), в столовых детских, санаторно-курортных, лечебно-профилактич...</g:description>
+<g:link>https://opspot.ru/item/salfetki-bumazhnye-lime-napkins-dispensernye-1-sl-belye-100sht-up-247100</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/4978/0_1608.jpg?1594381226</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>32.00 RUB</g:price>
+<g:brand>Lime</g:brand>
+<g:mpn>247100</g:mpn>
+<g:product_type>Бумага. Салфетки. Полотенца > Бумажные салфетки</g:product_type>
+</item>
+<item>
+<g:id>3980</g:id>
+<g:title>Средство моющее для полов, поверхностей Pro-Brite Nutral, 5л, универсальное</g:title>
+<g:description>Жидкое нейтральное концентрированное низкопенное средство для мытья различных поверхностей. Уровень pH 1%-го раствора: 6,5±0,5. Уничтожает патогенные микроорганизмы. Не вызывает коррозии. Не имеет запаха. Замерзает, после размораживания свойства сохраняются. Область применения. Предназначено для ежедневной ручной или механизированной уборки. Используется для мытья любых полов: мармолеума и линолеума, деревянных, окрашенных и покрытых мастикой, полимерных напольных покрытий. Эффективно отмывает поверхно...</g:description>
+<g:link>https://opspot.ru/item/sredstvo-moyushchee-dlya-polov-poverhnostey-pro-brite-nutral-5l-universalnoe</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/3980/Photo1.jpg?1562751721</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>618.27 RUB</g:price>
+<g:brand>Pro-Brite</g:brand>
+<g:mpn>002-5</g:mpn>
+<g:product_type>Химия для уборки профессиональная > Для пола</g:product_type>
+</item>
+<item>
+<g:id>4033</g:id>
+<g:title>Средство чистящее для грилей и духовок Kiilto Grill Forte, 5л, экспресс очистка</g:title>
+<g:description>Жидкое сильнощелочное средство для экспресс-очистки стальных поверхностей грилей и духовок. Готово к использованию. Уровень рН – 14,0. Хорошая увлажняющая способность усиливает отделение загрязнений. Не содержит ароматизаторов и красителей. Область применения. Предназначено для ручного мытья. Рекомендуется для ежедневных и генеральных уборок. Удаляет остатки от жарки и выпечки, расщепляет крахмал и белок. Не подходит для использования на алюминиевых, окрашенных и других не устойчивых к воздействию щело...</g:description>
+<g:link>https://opspot.ru/item/sredstvo-chistyashchee-dlya-griley-i-duhovok-kiilto-grill-forte-5l-ekspress-ochistka</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/4033/Photo1.jpg?1562751722</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>1281.81 RUB</g:price>
+<g:brand>Kiilto</g:brand>
+<g:mpn>205125</g:mpn>
+<g:product_type>Химия для уборки профессиональная > Для кухни</g:product_type>
+</item>
+<item>
+<g:id>6526</g:id>
+<g:title>Швабра самоотжимная Лайма, насадка 27см PVA, телескопическая ручка 125см</g:title>
+<g:description>Швабра самоотжимная губчатая, ПВА. Снабжена телескопической ручкой и механизмом лёгкого отжима. Максимальная длина ручки: 125 см. Длина насадки: 27 см. Тип крепления насадки: 4 болта. Преимущества. Отлично впитывает. Эргономичная, позволяет отрегулировать ручку под рост персонала. Маневренна (легко вымоет поверхности под столами и батареями). Благодаря функции самоотжима исключает контакт рук с грязной водой и экономит время, необходимое для уборки. Область применения. Швабра используется для ежеднев...</g:description>
+<g:link>https://opspot.ru/item/shvabra-samootzhimnaya-layma-nasadka-27sm-pva-teleskopicheskaya-ruchka-125sm</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/6526/shvabra_Laymochka.jpg?1581925278</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>355.00 RUB</g:price>
+<g:brand>Лайма</g:brand>
+<g:mpn>603596</g:mpn>
+<g:product_type>Инвентарь для уборки > Швабры для мытья пола, флаундеры</g:product_type>
+</item>
+<item>
+<g:id>4046</g:id>
+<g:title>Салфетки бумажные Lime 24х24см, 1-сл, черные (шоколад), 400шт/уп, 410150</g:title>
+<g:description>Однослойные салфетки изготовлены из 100% целлюлозы. Размер – 24 х 24 см. Цвет – шоколадный. В пачке – 400 шт. Упакованы по 12 пачек в коробке. Преимущества. Салфетки прекрасно впитывают влагу, сохраняя необходимую прочность. Область применения. Предназначены для ежедневного использования. Однослойные салфетки постоянно необходимы на домашних кухнях, предприятиях общественного питания (в ресторанах, кафе, барах), в столовых детских, санаторно-курортных, лечебно-профилактических и других учреждений.</g:description>
+<g:link>https://opspot.ru/item/salfetki-bumazhnye-lime-24h24sm-1-sl-chernye-shokolad-400sht-up-410150</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/4046/Photo1.jpg?1562751722</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>189.00 RUB</g:price>
+<g:brand>Lime</g:brand>
+<g:mpn>410150</g:mpn>
+<g:product_type>Бумага. Салфетки. Полотенца > Бумажные салфетки</g:product_type>
+</item>
+<item>
+<g:id>5442</g:id>
+<g:title>Батарейки пальчиковые GP "Super" АА/LR6, алкалиновые, 4шт/уп</g:title>
+<g:description>Пальчиковые батарейки. Алкалиновые, АА/LR6. В упаковке 4 штуки. Преимущества. Обеспечивают долговременную работу выносных электрических и электронных устройств. Область применения. Применимы для любых приборов, предназначенных для использования данного типа батареек. </g:description>
+<g:link>https://opspot.ru/item/batareyki-palchikovye-gp-super-aa-lr6-alkalinovye-4sht-up</g:link>
+<g:image_link>https://api.opspot.ru/storage/items/5442/batareyki_alkalinovie.jpg?1581578557</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>143.36 RUB</g:price>
+<g:brand>GP</g:brand>
+<g:mpn/>
+<g:product_type>Канцелярия > Сопутствующие товары</g:product_type>
+</item>
+</channel>
 </rss>
