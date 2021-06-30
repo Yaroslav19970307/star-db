@@ -22,12 +22,6 @@ export default class RandomPlanet extends Component {
         this.updatePlanet = this.updatePlanet.bind(this);
     }
 
-    componentDidMount() {
-    }
-
-    componentWillUnmount() {
-      clearInterval(this.interval);
-    }
 
     onPlanetLoaded(planet) {
         this.setState({ 
@@ -63,7 +57,6 @@ export default class RandomPlanet extends Component {
               <div className="random-planet jumbotron rounded">
                     {errorMessage}
                     {spinner}
-                    {content}
               </div>
       );
     }
