@@ -1,3 +1,14 @@
 .app{
     padding: 0 20px;
 }
+
+.formEsputnik {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.formEsputnik > div {
+    background-color: #3366CC;
+    width: 1000px;
+}
