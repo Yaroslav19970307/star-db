@@ -34,7 +34,7 @@ export default class App extends Component {
                                     
                             </Switch >
                                 <div className="formEsputnik">
-                                    text</div>
+                                    <div></div></div>
                         </div>
                     </Router>
                 </SwapiServiceProvider>
