@@ -27,13 +27,14 @@ export default class App extends Component {
                             <RandomPlanet />
                             <Switch>
                                 <Route exact path="/" render={() => <h2>Welcome to StarDB</h2>} />
-                                <Route exact path="/" render={() => <div className="formEsputnik"> text</div>} />
                                 <Route path="/people" component={PeoplePage} />
                                 <Route path="/planets" component={PlanetPage} />
                                 <Route path="/starships" component={StarshipPage} />
-
                                 <Route render={() => <h2>Page not found</h2>} />
+                                    
                             </Switch >
+                                <div className="formEsputnik">
+                                    text</div>
                         </div>
                     </Router>
                 </SwapiServiceProvider>
