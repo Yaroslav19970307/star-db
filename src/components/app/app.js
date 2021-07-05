@@ -34,6 +34,7 @@ export default class App extends Component {
                                     
                             </Switch >
                                 <div className="formEsputnik">
+                                    <div className="formEsputnik">
                                 </div>
                         </div>
                     </Router>
