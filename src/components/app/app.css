@@ -3,8 +3,7 @@
 }
 
 .formEsputnik {
-    display: flex;
-    justify-content: center;
+    display: block;
     padding: 20px;
     width: 1000px;
 }
