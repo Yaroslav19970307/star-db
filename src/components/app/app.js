@@ -24,7 +24,6 @@ export default class App extends Component {
                     <Router>
                         <div className="app">
                             <Header />
-                            <RandomPlanet />
                             <Switch>
                                 <Route exact path="/" render={() => <h2>Welcome to StarDB</h2>} />
                                 <Route path="/people" component={PeoplePage} />
