@@ -32,10 +32,7 @@ export default class App extends Component {
                                 <Route render={() => <h2>Page not found</h2>} />
                                     
                             </Switch >
-                                <div className="formEsputnik">
-                                    
-                                </div> 
-<div className="formEsputnik"></div>
+                                <div className="formEsputnik"></div>
                         </div>
                     </Router>
                 </SwapiServiceProvider>
