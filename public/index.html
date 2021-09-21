@@ -19,8 +19,10 @@
 	es("pushOn");
 
     function sendEventForToken(pushToken) {
-      es('sendEvent', 'newEvent', pushToken);
+      es('sendEvent', 'newEvent', pushToken, [{"name":"name", "value":"hello"}]);
     }
+    es('getPushToken', sendEventForToken);
+
 	  </script>
   </head>
   <body>
