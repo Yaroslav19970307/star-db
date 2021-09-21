@@ -17,10 +17,6 @@ export default class App extends Component {
         this.swapiService = new SwapiService();
     }
 
-    componentDidMount() {
-
-    }
-
     render() {
         return (
             <ErrorBoundry>
