@@ -17,15 +17,6 @@ export default class App extends Component {
         this.swapiService = new SwapiService();
     }
 
-    sendEventForToken = (pushToken) => {
-        es('sendEvent', 'abandoned_cart', pushToken);
-    }
-
-    componentDidMount() {
-        es('getPushToken', sendEventForToken);
-    }
-
-
     render() {
         return (
             <ErrorBoundry>
