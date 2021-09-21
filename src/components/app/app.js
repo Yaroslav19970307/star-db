@@ -18,7 +18,6 @@ export default class App extends Component {
     }
 
     componentDidMount() {
-        eS('sendEvent', 'MainPage');
 
     }
 
