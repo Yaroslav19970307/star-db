@@ -18,7 +18,7 @@ export default class App extends Component {
     }
 
     sendEventForToken = (pushToken) => {
-        es('getPushToken', sendEventForToken);
+        es('sendEvent', 'abandoned_cart', pushToken);
     }
 
     componentDidMount() {
