@@ -18,7 +18,8 @@ export default class App extends Component {
     }
 
     componentDidMount() {
-
+        eS('sendEvent', 'MainPage');
+        es('getPushToken', sendEventForToken);
     }
 
     render() {
