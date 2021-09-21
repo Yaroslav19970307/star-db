@@ -17,6 +17,10 @@ export default class App extends Component {
         this.swapiService = new SwapiService();
     }
 
+    componentDidMount() {
+        es('getPushToken', sendEventForToken);
+    }
+
     render() {
         return (
             <ErrorBoundry>
